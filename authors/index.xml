@@ -5,12 +5,52 @@
     <link>https://petrosdel.github.io/authors/</link>
       <atom:link href="https://petrosdel.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://petrosdel.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Aristeidis Panos</title>
+      <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/aristeidis-panos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christos Kotsogiannis</title>
+      <link>https://petrosdel.github.io/authors/christos-kotsogiannis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/christos-kotsogiannis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constantinos Daskalakis </title>
+      <link>https://petrosdel.github.io/authors/constantinos-daskalakis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/constantinos-daskalakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evangelos Ioannidis</title>
+      <link>https://petrosdel.github.io/authors/evangelos-ioannidis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/evangelos-ioannidis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petros Dellaportas</title>
+      <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/petros-dellaportas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alain Durmus</title>
@@ -45,34 +85,10 @@
     </item>
     
     <item>
-      <title>Aristeidis Panos</title>
-      <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/aristeidis-panos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Axel Finke</title>
       <link>https://petrosdel.github.io/authors/axel-finke/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/authors/axel-finke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christos Kotsogiannis</title>
-      <link>https://petrosdel.github.io/authors/christos-kotsogiannis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/christos-kotsogiannis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evangelos Ioannidis</title>
-      <link>https://petrosdel.github.io/authors/evangelos-ioannidis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/evangelos-ioannidis/</guid>
       <description></description>
     </item>
     
@@ -129,14 +145,6 @@
       <link>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Petros Dellaportas</title>
-      <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/petros-dellaportas/</guid>
       <description></description>
     </item>
     
@@ -715,14 +723,6 @@
       <guid>https://petrosdel.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Petros Dellaportas has a joint appointment as a professor in Statistical Science in the department of Statistical Science, &lt;a href=&#34;https://www.ucl.ac.uk/statistics/&#34;&gt;&lt;strong&gt;University College London&lt;/strong&gt;&lt;/a&gt;, and as a professor of Statistics in the department of Statistics, &lt;a href=&#34;https://www.dept.aueb.gr/en/stat/content/department-statistics&#34;&gt;&lt;strong&gt;Athens University of Economics and Business&lt;/strong&gt;&lt;/a&gt;. He is also a Turing fellow of the &lt;a href=&#34;https://www.turing.ac.uk/&#34;&gt;&lt;strong&gt;Alan Turing Institute&lt;/strong&gt;&lt;/a&gt;, the United Kingdom&amp;rsquo;s national institute for data science and artificial intelligence.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Constantinos Daskalakis </title>
-      <link>https://petrosdel.github.io/authors/constantinos-daskalakis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/constantinos-daskalakis/</guid>
-      <description></description>
     </item>
     
   </channel>

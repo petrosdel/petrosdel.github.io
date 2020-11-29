@@ -5,12 +5,20 @@
     <link>https://petrosdel.github.io/publication_types/0/</link>
       <atom:link href="https://petrosdel.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>0</title>
       <link>https://petrosdel.github.io/publication_types/0/</link>
     </image>
+    
+    <item>
+      <title>Sample size determination for risk-based tax auditing</title>
+      <link>https://petrosdel.github.io/publication/dellaportas-2020-sample/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2020-sample/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
@@ -25,14 +33,6 @@
       <link>https://petrosdel.github.io/publication/panos-2018-fully/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/panos-2018-fully/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample size determination for risk-based tax auditing</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2019-sample/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2019-sample/</guid>
       <description></description>
     </item>
     

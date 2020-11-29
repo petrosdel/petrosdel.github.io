@@ -5,7 +5,7 @@
     <link>https://petrosdel.github.io/publication_types/</link>
       <atom:link href="https://petrosdel.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
@@ -15,8 +15,16 @@
     <item>
       <title>0</title>
       <link>https://petrosdel.github.io/publication_types/0/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication_types/0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://petrosdel.github.io/publication_types/3/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     
@@ -49,14 +57,6 @@
       <link>https://petrosdel.github.io/publication_types/5/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication_types/5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3</title>
-      <link>https://petrosdel.github.io/publication_types/3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     
