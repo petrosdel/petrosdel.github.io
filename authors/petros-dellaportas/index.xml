@@ -5,12 +5,28 @@
     <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
       <atom:link href="https://petrosdel.github.io/authors/petros-dellaportas/index.xml" rel="self" type="application/rss+xml" />
     <description>Petros Dellaportas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Petros Dellaportas</title>
       <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
     </image>
+    
+    <item>
+      <title>Large scale multi-label learning using Gaussian processes</title>
+      <link>https://petrosdel.github.io/publication/panos-2021-large/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/panos-2021-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview with Professor Adrian FM Smith</title>
+      <link>https://petrosdel.github.io/publication/dellaportas2020interview/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/dellaportas2020interview/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sample size determination for risk-based tax auditing</title>
@@ -57,14 +73,6 @@
       <link>https://petrosdel.github.io/publication/finke-2019-efficient/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/finke-2019-efficient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fully Scalable Gaussian Processes using Subspace Inducing Inputs</title>
-      <link>https://petrosdel.github.io/publication/panos-2018-fully/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/panos-2018-fully/</guid>
       <description></description>
     </item>
     

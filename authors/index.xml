@@ -5,7 +5,7 @@
     <link>https://petrosdel.github.io/authors/</link>
       <atom:link href="https://petrosdel.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Aristeidis Panos</title>
       <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/authors/aristeidis-panos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michalis K Titsias</title>
+      <link>https://petrosdel.github.io/authors/michalis-k-titsias/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/michalis-k-titsias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petros Dellaportas</title>
+      <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/petros-dellaportas/</guid>
       <description></description>
     </item>
     
@@ -37,18 +53,18 @@
     </item>
     
     <item>
-      <title>Evangelos Ioannidis</title>
-      <link>https://petrosdel.github.io/authors/evangelos-ioannidis/</link>
+      <title>David A Stephens</title>
+      <link>https://petrosdel.github.io/authors/david-a-stephens/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/evangelos-ioannidis/</guid>
+      <guid>https://petrosdel.github.io/authors/david-a-stephens/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Petros Dellaportas</title>
-      <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
+      <title>Evangelos Ioannidis</title>
+      <link>https://petrosdel.github.io/authors/evangelos-ioannidis/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/petros-dellaportas/</guid>
+      <guid>https://petrosdel.github.io/authors/evangelos-ioannidis/</guid>
       <description></description>
     </item>
     
@@ -121,14 +137,6 @@
       <link>https://petrosdel.github.io/authors/michailis-k-titsias/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/authors/michailis-k-titsias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michalis K Titsias</title>
-      <link>https://petrosdel.github.io/authors/michalis-k-titsias/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/michalis-k-titsias/</guid>
       <description></description>
     </item>
     
@@ -305,14 +313,6 @@
       <link>https://petrosdel.github.io/authors/serge-galam/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/authors/serge-galam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David A Stephens</title>
-      <link>https://petrosdel.github.io/authors/david-a-stephens/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/david-a-stephens/</guid>
       <description></description>
     </item>
     
