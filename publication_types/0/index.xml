@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Bayesian prediction of jumps in large panels of time series data</title>
+      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
+      <link>https://petrosdel.github.io/publication/narayanan2021flexible/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/narayanan2021flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference for partially observed Riemannian Ornstein-Uhlenbeck diffusions of covariance matrices</title>
+      <link>https://petrosdel.github.io/publication/bui2021inference/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/bui2021inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Large scale multi-label learning using Gaussian processes</title>
       <link>https://petrosdel.github.io/publication/panos-2021-large/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -25,14 +49,6 @@
       <link>https://petrosdel.github.io/publication/dellaportas-2020-sample/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/dellaportas-2020-sample/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</guid>
       <description></description>
     </item>
     
