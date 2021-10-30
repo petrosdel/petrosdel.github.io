@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://petrosdel.github.io/publication_types/0/</loc>
+    <loc>https://petrosdel.github.io/publication_types/1/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/angelos-alexopoulos/</loc>
+    <loc>https://petrosdel.github.io/publication_types/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/aristeidis-panos/</loc>
+    <loc>https://petrosdel.github.io/authors/anastasios-plataniotis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,42 +23,27 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</loc>
+    <loc>https://petrosdel.github.io/publication/hirt-2021-hmc/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/publication/narayanan2021flexible/</loc>
+    <loc>https://petrosdel.github.io/authors/katerina-petrova/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/publication/bui2021inference/</loc>
+    <loc>https://petrosdel.github.io/authors/marcel-hirt/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/ioannis-kosmidis/</loc>
+    <loc>https://petrosdel.github.io/authors/michailis-k-titsias/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/publication/panos-2021-large/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/authors/mai-ngoc-bui/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/authors/michalis-k-titsias/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</loc>
+    <loc>https://petrosdel.github.io/authors/michalis-k.-titsias/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,18 +68,8 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/santhosh-narayanan/</loc>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/authors/yvo-pokern/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/publication_types/1/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/christos-kotsogiannis/</loc>
+    <loc>https://petrosdel.github.io/authors/aristeidis-panos/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,32 +88,12 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/david-a-stephens/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/authors/evangelos-ioannidis/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/publication/dellaportas2020interview/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/publication/dellaportas-2020-sample/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://petrosdel.github.io/publication/daskalakis2020scalable/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/publication_types/2/</loc>
+    <loc>https://petrosdel.github.io/publication_types/0/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,12 +108,27 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/anastasios-plataniotis/</loc>
+    <loc>https://petrosdel.github.io/authors/angelos-alexopoulos/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://petrosdel.github.io/authors/axel-finke/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/authors/christos-kotsogiannis/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,6 +143,16 @@
   </url>
   
   <url>
+    <loc>https://petrosdel.github.io/authors/evangelos-ioannidis/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/publication/panos-2018-fully/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://petrosdel.github.io/publication/titsias-2019-gradient/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -183,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/marcel-hirt/</loc>
+    <loc>https://petrosdel.github.io/authors/jonathan-j-forster/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,12 +173,17 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/michailis-k-titsias/</loc>
+    <loc>https://petrosdel.github.io/authors/michalis-k-titsias/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://petrosdel.github.io/authors/mike-g-tsionas/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,12 +198,12 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/publication/hirt-19-a/</loc>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2019-sample/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</loc>
+    <loc>https://petrosdel.github.io/publication/hirt-19-a/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -373,6 +358,11 @@
   </url>
   
   <url>
+    <loc>https://petrosdel.github.io/authors/david-a-stephens/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://petrosdel.github.io/authors/nicholas-g-polson/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -414,11 +404,6 @@
   
   <url>
     <loc>https://petrosdel.github.io/publication/dellaportas-2012-joint/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/authors/jonathan-j-forster/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -927,11 +912,7 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/tags/poisson-processes-for-identity-systems-and-cyber-security/</loc>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/project/poisson-processes-for-identity-systems-and-cyber-security/</loc>
+    <loc>https://petrosdel.github.io/project/dynamic-pricing-project/</loc>
   </url>
   
   <url>
@@ -944,18 +925,6 @@
   
   <url>
     <loc>https://petrosdel.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/project/dynamic-pricing-project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/tags/reservoir-computing-for-macroeconomic-modelling/</loc>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/project/reservoir-computing-for-macroeconomic-modelling/</loc>
   </url>
   
   <url>
