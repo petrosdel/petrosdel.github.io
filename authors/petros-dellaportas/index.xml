@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Bayesian prediction of jumps in large panels of time series data</title>
+      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Entropy-based adaptive Hamiltonian Monte Carlo</title>
       <link>https://petrosdel.github.io/publication/hirt-2021-hmc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/hirt-2021-hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Scalable Gaussian Processes using Subspace Inducing Inputs</title>
+      <link>https://petrosdel.github.io/publication/panos-2018-fully/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/panos-2018-fully/</guid>
       <description></description>
     </item>
     
@@ -37,22 +53,6 @@
     </item>
     
     <item>
-      <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
-      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Copula-like Variational Inference</title>
       <link>https://petrosdel.github.io/publication/hirt-2019-copula/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -65,14 +65,6 @@
       <link>https://petrosdel.github.io/publication/finke-2019-efficient/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/finke-2019-efficient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fully Scalable Gaussian Processes using Subspace Inducing Inputs</title>
-      <link>https://petrosdel.github.io/publication/panos-2018-fully/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/panos-2018-fully/</guid>
       <description></description>
     </item>
     

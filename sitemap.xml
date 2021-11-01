@@ -18,12 +18,32 @@
   </url>
   
   <url>
+    <loc>https://petrosdel.github.io/authors/angelos-alexopoulos/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/authors/aristeidis-panos/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://petrosdel.github.io/authors/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://petrosdel.github.io/publication/hirt-2021-hmc/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/publication/panos-2018-fully/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +63,17 @@
   </url>
   
   <url>
+    <loc>https://petrosdel.github.io/authors/michalis-k-titsias/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://petrosdel.github.io/authors/michalis-k.-titsias/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,11 +108,6 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/aristeidis-panos/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://petrosdel.github.io/authors/constantinos-daskalakis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -108,22 +133,7 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/angelos-alexopoulos/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://petrosdel.github.io/authors/axel-finke/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,11 +158,6 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/publication/panos-2018-fully/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://petrosdel.github.io/publication/titsias-2019-gradient/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -163,27 +168,12 @@
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/jonathan-j-forster/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://petrosdel.github.io/authors/marika-vezzoli/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petrosdel.github.io/authors/michalis-k-titsias/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://petrosdel.github.io/authors/mike-g-tsionas/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -404,6 +394,11 @@
   
   <url>
     <loc>https://petrosdel.github.io/publication/dellaportas-2012-joint/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/authors/jonathan-j-forster/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
