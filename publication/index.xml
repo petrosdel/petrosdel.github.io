@@ -29,18 +29,50 @@
     </item>
     
     <item>
-      <title>Fully Scalable Gaussian Processes using Subspace Inducing Inputs</title>
-      <link>https://petrosdel.github.io/publication/panos-2018-fully/</link>
+      <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
+      <link>https://petrosdel.github.io/publication/narayanan2021flexible/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/panos-2018-fully/</guid>
+      <guid>https://petrosdel.github.io/publication/narayanan2021flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference for partially observed Riemannian Ornstein-Uhlenbeck diffusions of covariance matrices</title>
+      <link>https://petrosdel.github.io/publication/bui2021inference/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/bui2021inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large scale multi-label learning using Gaussian processes</title>
+      <link>https://petrosdel.github.io/publication/panos-2021-large/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/panos-2021-large/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable inference for a full multivariate stochastic volatility model</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2021-scalable/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2021-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview with Professor Adrian FM Smith</title>
+      <link>https://petrosdel.github.io/publication/dellaportas2020interview/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/dellaportas2020interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample size determination for risk-based tax auditing</title>
+      <link>https://petrosdel.github.io/publication/dellaportas-2020-sample/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2020-sample/</guid>
       <description></description>
     </item>
     
@@ -49,6 +81,14 @@
       <link>https://petrosdel.github.io/publication/daskalakis2020scalable/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/daskalakis2020scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
+      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</guid>
       <description></description>
     </item>
     
@@ -81,14 +121,6 @@
       <link>https://petrosdel.github.io/publication/dellaportas-2019-importance/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/dellaportas-2019-importance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample size determination for risk-based tax auditing</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2019-sample/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2019-sample/</guid>
       <description></description>
     </item>
     
