@@ -5,12 +5,76 @@
     <link>https://petrosdel.github.io/authors/</link>
       <atom:link href="https://petrosdel.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://petrosdel.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Ioannis Kosmidis</title>
+      <link>https://petrosdel.github.io/authors/ioannis-kosmidis/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/ioannis-kosmidis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petros Dellaportas</title>
+      <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/petros-dellaportas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhongzhen Wang</title>
+      <link>https://petrosdel.github.io/authors/zhongzhen-wang/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/zhongzhen-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giovanni Ballarin</title>
+      <link>https://petrosdel.github.io/authors/giovanni-ballarin/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/giovanni-ballarin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan-Pablo Ortega</title>
+      <link>https://petrosdel.github.io/authors/juan-pablo-ortega/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/juan-pablo-ortega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyudmila Grigoryeva</title>
+      <link>https://petrosdel.github.io/authors/lyudmila-grigoryeva/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/lyudmila-grigoryeva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel Hirt</title>
+      <link>https://petrosdel.github.io/authors/marcel-hirt/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/marcel-hirt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sophie van Huellen</title>
+      <link>https://petrosdel.github.io/authors/sophie-van-huellen/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/authors/sophie-van-huellen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angelos Alexopoulos</title>
@@ -25,14 +89,6 @@
       <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/authors/aristeidis-panos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ioannis Kosmidis</title>
-      <link>https://petrosdel.github.io/authors/ioannis-kosmidis/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/ioannis-kosmidis/</guid>
       <description></description>
     </item>
     
@@ -81,14 +137,6 @@
       <link>https://petrosdel.github.io/authors/michalis-k-titsias/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/authors/michalis-k-titsias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Petros Dellaportas</title>
-      <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/petros-dellaportas/</guid>
       <description></description>
     </item>
     
@@ -145,14 +193,6 @@
       <link>https://petrosdel.github.io/authors/katerina-petrova/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/authors/katerina-petrova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcel Hirt</title>
-      <link>https://petrosdel.github.io/authors/marcel-hirt/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/authors/marcel-hirt/</guid>
       <description></description>
     </item>
     
