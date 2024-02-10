@@ -1064,6 +1064,10 @@
   </url>
   
   <url>
+    <loc>https://petrosdel.github.io/project/wind-energy/</loc>
+  </url>
+  
+  <url>
     <loc>https://petrosdel.github.io/project/</loc>
   </url>
   
@@ -1085,6 +1089,10 @@
   
   <url>
     <loc>https://petrosdel.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://petrosdel.github.io/tags/wind-energy/</loc>
   </url>
   
 </urlset>
