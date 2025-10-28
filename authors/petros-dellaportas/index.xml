@@ -5,7 +5,7 @@
     <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
       <atom:link href="https://petrosdel.github.io/authors/petros-dellaportas/index.xml" rel="self" type="application/rss+xml" />
     <description>Petros Dellaportas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Petros Dellaportas</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
+      <title>Probabilistic multilayer perceptrons for wind farm condition monitoring</title>
+      <link>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a framework for a new research ecosystem</title>
+      <link>https://petrosdel.github.io/publication/savona2025towards/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/savona2025towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Invariant Markov Chain Monte Carlo</title>
+      <link>https://petrosdel.github.io/publication/titsias2025gaussian/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/titsias2025gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Horizon Echo State Network Prediction of Intraday Stock Returns</title>
+      <link>https://petrosdel.github.io/publication/ballarin2025multi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/ballarin2025multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task neural diffusion processes for uncertainty-quantified wind power prediction</title>
+      <link>https://petrosdel.github.io/publication/rawson2025multi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/rawson2025multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Wind Power Forecasting via Non-Stationary Gaussian Processes</title>
+      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning variational autoencoders via MCMC speed measures</title>
       <link>https://petrosdel.github.io/publication/hirt2024learning/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/hirt2024learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance Reduction for the Independent Metropolis Sampler</title>
+      <link>https://petrosdel.github.io/publication/liu2024variance/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/liu2024variance/</guid>
       <description></description>
     </item>
     
