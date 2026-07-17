@@ -5,12 +5,20 @@
     <link>https://petrosdel.github.io/tags/top-tier/</link>
       <atom:link href="https://petrosdel.github.io/tags/top-tier/index.xml" rel="self" type="application/rss+xml" />
     <description>Top-Tier</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Top-Tier</title>
       <link>https://petrosdel.github.io/tags/top-tier/</link>
     </image>
+    
+    <item>
+      <title>Gaussian Invariant Markov Chain Monte Carlo</title>
+      <link>https://petrosdel.github.io/publication/titsias2025gaussian/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/titsias2025gaussian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian online change point detection with Hilbert space approximate Student-t process</title>

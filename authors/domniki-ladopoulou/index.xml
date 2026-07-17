@@ -5,7 +5,7 @@
     <link>https://petrosdel.github.io/authors/domniki-ladopoulou/</link>
       <atom:link href="https://petrosdel.github.io/authors/domniki-ladopoulou/index.xml" rel="self" type="application/rss+xml" />
     <description>Domniki Ladopoulou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Domniki Ladopoulou</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Multi-task neural diffusion processes for uncertainty-quantified wind power prediction</title>
-      <link>https://petrosdel.github.io/publication/rawson2025multi/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/rawson2025multi/</guid>
+      <title>Probabilistic wind power modelling via heteroscedastic non-stationary gaussian processes</title>
+      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Probabilistic Wind Power Forecasting via Non-Stationary Gaussian Processes</title>
-      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
+      <title>Multi-task neural diffusion processes for uncertainty-quantified wind power prediction</title>
+      <link>https://petrosdel.github.io/publication/rawson2025multi/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
+      <guid>https://petrosdel.github.io/publication/rawson2025multi/</guid>
       <description></description>
     </item>
     

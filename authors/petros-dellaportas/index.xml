@@ -5,12 +5,28 @@
     <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
       <atom:link href="https://petrosdel.github.io/authors/petros-dellaportas/index.xml" rel="self" type="application/rss+xml" />
     <description>Petros Dellaportas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Petros Dellaportas</title>
       <link>https://petrosdel.github.io/authors/petros-dellaportas/</link>
     </image>
+    
+    <item>
+      <title>Gaussian Invariant Markov Chain Monte Carlo</title>
+      <link>https://petrosdel.github.io/publication/titsias2025gaussian/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/titsias2025gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic wind power modelling via heteroscedastic non-stationary gaussian processes</title>
+      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Probabilistic multilayer perceptrons for wind farm condition monitoring</title>
@@ -29,18 +45,10 @@
     </item>
     
     <item>
-      <title>Detecting anomalies in heterogeneous population-scale VAT networks</title>
+      <title>A network approach to detect Value Added Tax fraud</title>
       <link>https://petrosdel.github.io/publication/alexopoulos2021vat/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/alexopoulos2021vat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaussian Invariant Markov Chain Monte Carlo</title>
-      <link>https://petrosdel.github.io/publication/titsias2025gaussian/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/titsias2025gaussian/</guid>
       <description></description>
     </item>
     
@@ -57,14 +65,6 @@
       <link>https://petrosdel.github.io/publication/rawson2025multi/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/rawson2025multi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Wind Power Forecasting via Non-Stationary Gaussian Processes</title>
-      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
       <description></description>
     </item>
     

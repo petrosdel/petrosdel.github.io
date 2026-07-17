@@ -5,12 +5,20 @@
     <link>https://petrosdel.github.io/publication_types/2/</link>
       <atom:link href="https://petrosdel.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://petrosdel.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Probabilistic wind power modelling via heteroscedastic non-stationary gaussian processes</title>
+      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Probabilistic multilayer perceptrons for wind farm condition monitoring</title>
